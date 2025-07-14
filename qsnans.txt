@@ -1,0 +1,15 @@
+$100;What is the capital of France?;London;Paris;Rome;Madrid;Paris
+$200;What is the chemical symbol for water?;O2;CO2;H2O;NaCl;H2O
+$300;Who wrote "Romeo and Juliet"?;William Shakespeare;Charles Dickens;Jane Austen;Mark Twain;William Shakespeare
+$500;What is the largest planet in our solar system?;Earth;Mars;Jupiter;Venus;Jupiter
+$1,000;Which country is known as the Land of the Rising Sun?;China;Japan;India;Australia;Japan
+$2,000;What is the main ingredient in guacamole?;Tomatoes;Avocado;Onions;Cheese;Avocado
+$4,000;What is the square root of 64?;6;7;8;9;8
+$8,000;What is the capital of Australia?;Sydney;Melbourne;Canberra;Perth;Canberra
+$16,000;Who painted the Mona Lisa?;Michelangelo;Leonardo da Vinci;Vincent van Gogh;Pablo Picasso;Leonardo da Vinci
+$32,000;What is the tallest mammal?;Elephant;Giraffe;Lion;Hippopotamus;Giraffe
+$64,000;What is the largest ocean in the world?;Atlantic Ocean;Indian Ocean;Pacific Ocean;Arctic Ocean;Pacific Ocean
+$125,000;What is the chemical symbol for gold?;Au;Ag;Fe;Cu;Au
+$250,000;Who was the first person to step on the moon?;Neil Armstrong;Buzz Aldrin;Yuri Gagarin;John Glenn;Neil Armstrong
+$500,000;What is the currency of Japan?;Euro;Dollar;Yen;Pound;Yen
+$1 MILLION;What is the name of the fairy in Peter Pan?;Tinkerbell;Wendy;Cinderella;Ariel;Tinkerbell
