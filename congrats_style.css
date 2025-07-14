@@ -1,0 +1,49 @@
+body{
+    background-image: url('images/game.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    resize: none;
+    color: white;
+    font-size: x-large;
+    font-family: 'Poppins',sans-serif;
+}
+
+
+.won{
+    border:2px solid white;
+    background-color: #e46ade;
+    border-radius: 5px;
+    padding:5px;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 15%;
+    text-align: center;
+    font-family: 'Verdana',sans-serif;
+}
+a {
+    text-decoration: none;
+/*    border:2px solid white;*/
+    border-radius: 5px;
+    padding:5px;
+/*    background-color: white;*/
+    color:white;
+}
+
+.animated-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: purple;
+    color: #fff;
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.animated-button:hover {
+    background-color: #2980b9;
+}
+
+.animated-button:active {
+    transform: translateY(2px); /* Move the button down slightly when clicked */
+}
